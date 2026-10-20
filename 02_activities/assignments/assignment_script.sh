@@ -28,10 +28,10 @@ unzip -q rawdata.zip
 # Complete assignment here
 
 # 1. Create a directory named data 
-ok this is the command to make a new directory
+mkdir "data"
 
 # 2. Move the ./rawdata directory to ./data/raw (eg. move it into ./data and rename it to raw)
-This is the command to move raw data directory to raw folder thank you
+mv ./rawdata ./data/raw
 # 3. List the contents of the ./data/raw directory
 
 # 4. Create the directory ./data/processed, 
